@@ -1,14 +1,15 @@
-"_meta": {
-  "language_pair": "English–Persian",
-  "category": "academic",
-  "entries": 20,
-  "version": "1.0.0",
-  "created": "2025-12-26"
-  "purpose": "Development Testing"
-  "author": "codestructor-ll"
-}
 {
+  "_meta": {
+    "language_pair": "English–Persian",
+    "category": "academic",
+    "entries": 20,
+    "version": "1.0.0",
+    "created": "2025-12-26",
+    "purpose": "Development Testing",
+    "author": "codestructor-ll"
+  },
   "university": {
+    "id": 1,
     "translation": "دانشگاه",
     "pos": "noun",
     "pronunciation": "daaneshgaah",
@@ -18,6 +19,7 @@
     "frequency": 4
   },
   "professor": {
+    "id": 2,
     "translation": "استاد",
     "pos": "noun",
     "pronunciation": "ostaad",
@@ -27,6 +29,7 @@
     "frequency": 4
   },
   "student": {
+    "id": 3,
     "translation": "دانشجو",
     "pos": "noun",
     "pronunciation": "daaneshjuu",
@@ -36,6 +39,7 @@
     "frequency": 5
   },
   "major": {
+    "id": 4,
     "translation": "رشته",
     "pos": "noun",
     "pronunciation": "reshte",
@@ -45,6 +49,7 @@
     "frequency": 4
   },
   "library": {
+    "id": 5,
     "translation": "کتابخانه",
     "pos": "noun",
     "pronunciation": "ketaabkhaane",
@@ -54,6 +59,7 @@
     "frequency": 4
   },
   "class": {
+    "id": 6,
     "translation": "کلاس",
     "pos": "noun",
     "pronunciation": "kelaas",
@@ -63,6 +69,7 @@
     "frequency": 5
   },
   "exam": {
+    "id": 7,
     "translation": "امتحان",
     "pos": "noun",
     "pronunciation": "emtehaan",
@@ -72,6 +79,7 @@
     "frequency": 5
   },
   "project": {
+    "id": 8,
     "translation": "پروژه",
     "pos": "noun",
     "pronunciation": "poruje",
@@ -81,6 +89,7 @@
     "frequency": 4
   },
   "degree": {
+    "id": 9,
     "translation": "مدرک تحصیلی",
     "pos": "noun",
     "pronunciation": "madrek-e tahsili",
@@ -90,6 +99,7 @@
     "frequency": 4
   },
   "thesis": {
+    "id": 10,
     "translation": "پایان‌نامه",
     "pos": "noun",
     "pronunciation": "paayaan-naame",
@@ -99,6 +109,7 @@
     "frequency": 3
   },
   "semester": {
+    "id": 11,
     "translation": "ترم",
     "pos": "noun",
     "pronunciation": "term",
@@ -108,6 +119,7 @@
     "frequency": 4
   },
   "research": {
+    "id": 12,
     "translation": "تحقیق",
     "pos": "noun",
     "pronunciation": "tahghigh",
@@ -117,6 +129,7 @@
     "frequency": 4
   },
   "lecture": {
+    "id": 13,
     "translation": "سخنرانی",
     "pos": "noun",
     "pronunciation": "sokhnaaraani",
@@ -126,6 +139,7 @@
     "frequency": 3
   },
   "grade": {
+    "id": 14,
     "translation": "نمره",
     "pos": "noun",
     "pronunciation": "nomre",
@@ -135,6 +149,7 @@
     "frequency": 4
   },
   "course": {
+    "id": 15,
     "translation": "دوره",
     "pos": "noun",
     "pronunciation": "dore",
@@ -144,6 +159,7 @@
     "frequency": 4
   },
   "scholarship": {
+    "id": 16,
     "translation": "بورسیه",
     "pos": "noun",
     "pronunciation": "borsi",
@@ -153,6 +169,7 @@
     "frequency": 3
   },
   "conference": {
+    "id": 17,
     "translation": "کنفرانس",
     "pos": "noun",
     "pronunciation": "konferans",
@@ -162,6 +179,7 @@
     "frequency": 3
   },
   "laboratory": {
+    "id": 18,
     "translation": "آزمایشگاه",
     "pos": "noun",
     "pronunciation": "aazaayeshgaah",
@@ -171,6 +189,7 @@
     "frequency": 3
   },
   "assignment": {
+    "id": 19,
     "translation": "تکلیف",
     "pos": "noun",
     "pronunciation": "taklif",
@@ -180,6 +199,7 @@
     "frequency": 4
   },
   "campus": {
+    "id": 20,
     "translation": "محوطه دانشگاه",
     "pos": "noun",
     "pronunciation": "mahuut-e daaneshgaah",
