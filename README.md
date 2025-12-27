@@ -1,27 +1,23 @@
-Englisch–Farsi Wortdatenbank (Akademische Version)
+# Englisch–Farsi Wortdatenbank
 
 Dieses Projekt bietet ein quelloffenes zweisprachiges Wörterbuch des englisch–farsi akademischen Wortschatzes im JSON-Format.
 Es soll Lernende, Übersetzerinnen, Entwicklerinnen und Sprachmodell-Ersteller*innen unterstützen, die mit Farsi Daten arbeiten.
-📘 Übersicht
+
+---
+
+## 📘 Übersicht
 
 Jeder Eintrag in der JSON-Datei enthält:
 
-    uebersetzung — Persische Entsprechung (in persischer Schrift)
+- *uebersetzung* — Persische Entsprechung (in persischer Schrift)
+- *wortart* — Substantiv, Verb, Adjektiv usw.
+- *aussprache* — Romanisierte Umschrift des Farsi für einfacheres Lesen
+- *beispiel_de* — Beispielsatz auf Deutsch
+- *beispiel_fa* — Beispielsatz auf Farsi
+- *synonyme* — Verwandte Wörter
+- *haeufigkeit* — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5)
 
-    wortart — Substantiv, Verb, Adjektiv usw.
-
-    aussprache — Romanisierte Umschrift des Farsi für einfacheres Lesen
-
-    beispiel_de — Beispielsatz auf Deutsch
-
-    beispiel_fa — Beispielsatz auf Farsi
-
-    synonyme — Verwandte Wörter
-
-    haeufigkeit — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5)
-
-Beispiel-Eintrag
-
+### Beispiel-Eintrag
 "university": {
 "ueberstzung": "دانشگاه",
 "wortart": "noun",
@@ -31,14 +27,29 @@ Beispiel-Eintrag
 "synonyme": ["college", "institution"],
 "haeufigkeit": 4
 }
-🧠 Häufigkeitsskala
+
+
+---
+
+## 🧠 Häufigkeitsskala
 Wert	Beschreibung	Beispiele
 5	Sehr häufiges Kernwort	exam, student, research
 4	Häufig; fachübergreifender Wortschatz	university, professor
 3	Spezifisch für akademische Kontexte	thesis, conference
 2	Fachspezifisch oder technisch	algorithm, experiment
 1	Seltenes oder fortgeschrittenes akademisches Wort	epistemology, morphology
-🗂️ Dateistruktur
+
+| Wert | Beschreibung | Beispiele |
+|--------|--------------|-----------|
+| **5** | Sehr häufiges Kernwort | exam, student, research |
+| **4** | Häufig; fachübergreifender Wortschatz | university, professor |
+| **3** | Spezifisch für akademische Kontexte | thesis, conference |
+| **2** | Fachspezifisch oder technisch | algorithm, experiment |
+| **1** | Seltenes oder fortgeschrittenes akademisches Wort | epistemology, morphology |
+
+---
+
+##🗂️ Dateistruktur
 
 │
 ├── academic-batch.json # Kern-Datensatz (zweisprachig)
