@@ -18,11 +18,11 @@ Jeder Eintrag in der JSON-Datei enthält:
 - *haeufigkeit* — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5)
 
 ### Beispiel-Eintrag
-"university": {
-"ueberstzung": "دانشگاه",
+"universitaet": {
+"uebersetzung": "دانشگاه",
 "wortart": "noun",
 "aussprache": "daaneshgaah",
-"beispiel_en": "She studies at the university.",
+"beispiel_de": "She studies at the university.",
 "beispiel_fa": "او در دانشگاه درس می‌خواند.",
 "synonyme": ["college", "institution"],
 "haeufigkeit": 4
