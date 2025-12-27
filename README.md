@@ -1,48 +1,45 @@
-# English–Persian Word Database (Academic Batch)
+Englisch–Farsi Wortdatenbank (Akademische Version)
 
-This project provides an open-source bilingual dictionary of English–Persian academic vocabulary in **JSON format**.  
-It aims to support learners, translators, developers, and language model builders working with Persian (Farsi) data.
+Dieses Projekt bietet ein quelloffenes zweisprachiges Wörterbuch des englisch–farsi akademischen Wortschatzes im JSON-Format.
+Es soll Lernende, Übersetzerinnen, Entwicklerinnen und Sprachmodell-Ersteller*innen unterstützen, die mit Farsi Daten arbeiten.
+📘 Übersicht
 
----
+Jeder Eintrag in der JSON-Datei enthält:
 
-## 📘 Overview
+    uebersetzung — Persische Entsprechung (in persischer Schrift)
 
-Each entry in the JSON file includes:
-- **translation** — Persian equivalent (in Persian script)
-- **pos** — Part of speech (noun, verb, adjective, etc.)
-- **pronunciation** — Romanized Farsi for easier reading
-- **example_en** — Example sentence in English
-- **example_fa** — Example sentence in Persian
-- **synonyms** — Related words
-- **frequency** — How common the word is in typical academic usage (1–5 scale)
+    wortart — Substantiv, Verb, Adjektiv usw.
 
-### Example Entry
+    aussprache — Romanisierte Umschrift des Farsi für einfacheres Lesen
+
+    beispiel_de — Beispielsatz auf Deutsch
+
+    beispiel_fa — Beispielsatz auf Farsi
+
+    synonyme — Verwandte Wörter
+
+    haeufigkeit — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5)
+
+Beispiel-Eintrag
+
 "university": {
-"translation": "دانشگاه",
-"pos": "noun",
-"pronunciation": "daaneshgaah",
-"example_en": "She studies at the university.",
-"example_fa": "او در دانشگاه درس می‌خواند.",
-"synonyms": ["college", "institution"],
-"frequency": 4
+"ueberstzung": "دانشگاه",
+"wortart": "noun",
+"aussprache": "daaneshgaah",
+"beispiel_en": "She studies at the university.",
+"beispiel_fa": "او در دانشگاه درس می‌خواند.",
+"synonyme": ["college", "institution"],
+"haeufigkeit": 4
 }
+🧠 Häufigkeitsskala
+Wert	Beschreibung	Beispiele
+5	Sehr häufiges Kernwort	exam, student, research
+4	Häufig; fachübergreifender Wortschatz	university, professor
+3	Spezifisch für akademische Kontexte	thesis, conference
+2	Fachspezifisch oder technisch	algorithm, experiment
+1	Seltenes oder fortgeschrittenes akademisches Wort	epistemology, morphology
+🗂️ Dateistruktur
 
-
----
-
-## 🧠 Frequency Scale
-
-| Value | Description | Examples |
-|--------|--------------|-----------|
-| **5** | Very common academic/core word | exam, student, research |
-| **4** | Common; discipline-wide vocabulary | university, professor |
-| **3** | Specific to academic settings | thesis, conference |
-| **2** | Specialized or technical | algorithm, experiment |
-| **1** | Rare or advanced academic term | epistemology, morphology |
-
----
-
-## 🗂️ File Structure
 │
-├── academic-batch.json # Core bilingual dataset
-├── README.md # Project description and usage guide
+├── academic-batch.json # Kern-Datensatz (zweisprachig)
+├── README.md # Projektbeschreibung und Nutzungshinweise
