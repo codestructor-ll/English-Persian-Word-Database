@@ -35,11 +35,11 @@ Jeder Eintrag in der JSON-Datei enthält:
 
 | Wert | Beschreibung | Beispiele |
 |--------|--------------|-----------|
-| **5** | Sehr häufiges Kernwort | exam, student, research |
-| **4** | Häufig; fachübergreifender Wortschatz | university, professor |
-| **3** | Spezifisch für akademische Kontexte | thesis, conference |
-| **2** | Fachspezifisch oder technisch | algorithm, experiment |
-| **1** | Seltenes oder fortgeschrittenes akademisches Wort | epistemology, morphology |
+| **5** | Sehr häufiges Kernwort | Prüfung, Student, Forschung |
+| **4** | Häufig; fachübergreifender Wortschatz | Universität, Professor |
+| **3** | Spezifisch für akademische Kontexte | Thesis, Konferenz |
+| **2** | Fachspezifisch oder technisch | Algorithmus, Experiment |
+| **1** | Seltenes oder fortgeschrittenes Wort | Epistomologie, Morphologie |
 
 ---
 
