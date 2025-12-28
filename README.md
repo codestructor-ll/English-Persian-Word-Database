@@ -46,5 +46,6 @@ Jeder Eintrag in der JSON-Datei enthält:
 ##🗂️ Dateistruktur
 
 │
-├── academic-batch.json # Kern-Datensatz (zweisprachig)
+├── akademisches-batch.json # Lern-Datensatz (zweisprachig)
+├── deutsch-farsi_datenbank.db # Kern-Datensatz im SQLite-Format (zweisprachig)
 ├── README.md # Projektbeschreibung und Nutzungshinweise
