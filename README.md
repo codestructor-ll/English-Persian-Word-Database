@@ -10,7 +10,7 @@ Es soll Lernende, Übersetzerinnen, Entwicklerinnen und Sprachmodell-Ersteller*i
 Jeder Eintrag in der JSON-Datei enthält:
 
 - *Uebersetzung* — Persische Entsprechung (in persischer Schrift).
-- *Aussprache* — Romanisierte Umschrift des Farsi für einfacheres Lesen.
+- *Lautschrift* — Romanisierte Umschrift des Farsi für einfacheres Lesen.
 - *Wortart* — Substantiv, Verb, Adjektiv usw.
 - *Haeufigkeit* — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5).
 - *Definition* — Substantiv, Verb, Adjektiv usw.
@@ -21,7 +21,7 @@ Jeder Eintrag in der JSON-Datei enthält:
 ### Beispiel-Eintrag
 "universitaet": {
 "uebersetzung": "دانشگاه",
-"aussprache": "daaneshgaah",
+"lautschrift": "daaneshgaah",
 "wortart": "Nomen",
 "haeufigkeit": 4
 "definition": "in mehrere Fachbereiche gegliederte [die Gesamtheit der Wissenschaften umfassende] Anstalt für wissenschaftliche Ausbildung und Forschung; Hochschule"
