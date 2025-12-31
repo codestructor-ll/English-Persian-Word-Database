@@ -47,9 +47,35 @@ Jeder Eintrag in der JSON-Datei enthält:
 
 ---
 
-##🗂️ Dateistruktur
+## 🗂️ Dateistruktur
 
 │
 ├── akademisches-batch.json # Lern-Datensatz (zweisprachig)
 ├── deutsch-farsi_datenbank.db # Kern-Datensatz im SQLite-Format (in entwicklung)
 ├── README.md # Projektbeschreibung und Nutzungshinweise
+
+---
+
+## 🤝 Beitrag
+/*
+Dieses Projekt hat das Ziel, eine qualitativ hochwertige, frei verfügbare deutsch‑persische Wortdatenbank für Lernende, Lehrende und Entwickler bereitzustellen.
+Damit die Datenbank wachsen und besser werden kann, ist Mitarbeit aus der Community ausdrücklich erwünscht.
+Wie du beitragen kannst
+
+- Neue Einträge (Deutsch–Persisch) nach dem bestehenden Schema hinzufügen.
+- Definitionen, Beispielsätze oder Lautschrift ergänzen oder verbessern.
+- Tippfehler, Inkonsistenzen oder Dubletten melden.
+- Vorschläge für neue Kategorien, Felder oder Strukturen einbringen.
+- Issues erstellen oder Pull Requests mit konkreten Änderungen einreichen.
+
+Alle Beiträge – ob klein oder groß – helfen dabei, die Datenbank nützlicher und verlässlicher zu machen.
+Gegenseitige Unterstützung
+
+Als Dankeschön für die Unterstützung werde ich in der zugehörigen App einen Spenden‑Button integrieren.
+Wer die Datenbank hilfreich findet, kann damit das Projekt finanziell unterstützen und so die weitere Entwicklung, Pflege und Erweiterung ermöglichen.
+So legst du los
+
+- Schau dir die vorhandene Datenstruktur im Repository an.
+- Lies die Contributing‑Hinweise (Format, JSON‑Schema, Namenskonventionen).
+- Erstelle ein Issue mit deinem Vorschlag oder schicke direkt einen Pull Request.
+*/
