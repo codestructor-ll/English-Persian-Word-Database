@@ -53,6 +53,3 @@ Jeder Eintrag in der JSON-Datei enthält:
 ├── akademisches-batch.json # Lern-Datensatz (zweisprachig)
 ├── deutsch-farsi_datenbank.db # Kern-Datensatz im SQLite-Format (in entwicklung)
 ├── README.md # Projektbeschreibung und Nutzungshinweise
-
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D31RDY2Q)
