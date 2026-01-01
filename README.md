@@ -9,7 +9,8 @@ Es soll Lernende, Übersetzerinnen, Entwicklerinnen und Sprachmodell-Ersteller*i
 
 Jeder Eintrag in der JSON-Datei enthält:
 
-- *Uebersetzung* — Persische Entsprechung (in persischer Schrift).
+- *Wort* — Deutsch-Persische Entsprechung.
+- *Identifikationsnummer* - Eindeutige ID.
 - *Lautschrift* — Romanisierte Umschrift des Farsi für einfacheres Lesen.
 - *Wortart* — Substantiv, Verb, Adjektiv usw.
 - *Haeufigkeit* — Häufigkeit der Verwendung im typischen akademischen Kontext (Skala von 1–5).
