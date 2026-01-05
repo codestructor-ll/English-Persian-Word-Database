@@ -21,16 +21,16 @@ Jeder Eintrag in der JSON-Datei enthält:
 - *Synonyme* — Verwandte Wörter.
 
 ### Beispiel-Eintrag
-"universitaet": {
-"uebersetzung": "دانشگاه",
-"lautschrift": "daaneshgaah",
-"wortart": "Nomen",
-"haeufigkeit": 4,
-"definitionDeutsch": "In mehrere Fachbereiche gegliederte [die Gesamtheit der Wissenschaften umfassende] Anstalt für wissenschaftliche Ausbildung und Forschung; Hochschule",
-"definitionPersisch": "«دانشگاه» مؤسسه آموزش عالی است که در آن آموزش پیشرفته و پژوهش انجام می‌شود و مدارک دانشگاهی اعطا می‌گردد.",
-"beispielDeutsch": "Sie studiert an der Universität.",
-"beispielPersisch": "او در دانشگاه درس می‌خواند.",
-"synonyme": ["Hochschule", "Institution"],
+"universitaet": {  <br />
+"uebersetzung": "دانشگاه",  <br />
+"lautschrift": "daaneshgaah", <br />
+"wortart": "Nomen", <br />
+"haeufigkeit": 4, <br />
+"definitionDeutsch": "In mehrere Fachbereiche gegliederte [die Gesamtheit der Wissenschaften umfassende] Anstalt für wissenschaftliche Ausbildung und Forschung; Hochschule", <br />
+"definitionPersisch": "«دانشگاه» مؤسسه آموزش عالی است که در آن آموزش پیشرفته و پژوهش انجام می‌شود و مدارک دانشگاهی اعطا می‌گردد.", <br />
+"beispielDeutsch": "Sie studiert an der Universität.", <br />
+"beispielPersisch": "او در دانشگاه درس می‌خواند.", <br />
+"synonyme": ["Hochschule", "Institution"],__
 }
 
 
