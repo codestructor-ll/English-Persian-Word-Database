@@ -1,12 +1,10 @@
 {
   "_meta": {
     "sprachpaar": "Englisch–Persisch",
-    "kategorie": "akademisch",
-    "eintraege": 20,
     "version": "1.0.1",
     "erstellt": "2025-12-26",
     "aktualisiert": "2025-12-29",
-    "zweck": "Entwicklungstest",
+    "zweck": "Datenbank",
     "autor": "codestructor-ll"
   },
   "Universität": {
