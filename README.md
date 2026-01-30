@@ -1,7 +1,8 @@
-# Deutsch–Persische Wörterdatenbank
+# Deutsch–Persische Wortdatenbank
 
-Dieses Projekt bietet eine quelloffene zweisprachige Wörterdatenbank des deutsch–persischen Wortschatzes - zunächst - im JSON-Format.
-Es soll Lernende, Übersetzerinnen, Entwicklerinnen und Sprachmodell-Ersteller*innen unterstützen, die mit Deutsch-Persischen Daten arbeiten.
+"loghaty" ist eine deutsch-persisch kuratierte Wortsammlung, die das Lernen der Sprache zugänglicher macht. NutzerInnen können das persische Alphabet kennenlernen und jeden Tag neue Vokabeln entdecken.
+Ob beim Sprachenlernen, Übersetzen im Alltag, Studium, Beruf oder bei der Integration.
+Wir freuen uns, wenn du eine der Möglichkeiten nutzt, das Projekt zu unterstützen. Gemeinsam wächst "loghaty" weiter.
 
 ---
 
