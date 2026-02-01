@@ -16,7 +16,7 @@
     "definition_per": "«دانشگاه» مؤسسه آموزش عالی است که در آن آموزش پیشرفته و پژوهش انجام می‌شود و مدارک دانشگاهی اعطا می‌گردد.",
     "beispiel_de": "Sie studiert an der Universität.",
     "beispiel_per": "او در دانشگاه درس می‌خواند.",
-    "synonyme": ["Hochschule", "Institution"],
+    "synonyme_de": ["Hochschule", "Institution"],
     "synonyme_per": ["دانشگاه", "مؤسسه آموزش عالی", "دانشکده بزرگ", "آکادمی"],
     "haeufigkeit": 4
   },
@@ -29,7 +29,7 @@
     "definition_per": "«استاد» عضو هیئت علمی با مرتبه علمی بالا در دانشگاه یا مؤسسه مشابه است که مسئول تدریس و غالباً تحقیق است.",
     "beispiel_de": "Der Professor hielt eine Vorlesung.",
     "beispiel_per": "استاد سخنرانی کرد.",
-    "synonyme": ["Dozent", "Akademiker"],
+    "synonyme_de": ["Dozent", "Akademiker"],
     "synonyme_per": ["استاد دانشگاه", "هیئت علمی", "دکتر (در زمینه دانشگاهی)", "معلم عالی‌رتبه"],
     "haeufigkeit": 4
   },
@@ -42,7 +42,7 @@
     "definition_per": "«دانشجو» فردی است که در دانشگاه یا مؤسسه آموزش عالی تحصیل می‌کند و به دنبال کسب مدرک تحصیلی است.",
     "beispiel_de": "Der Student reichte die Aufgabe ein.",
     "beispiel_per": "دانشجو تکلیف را تحویل داد.",
-    "synonyme": ["Lernender", "Schüler"],
+    "synonyme_de": ["Lernender", "Schüler"],
     "synonyme_per": ["دانش‌آموز دانشگاهی", "تحصیل‌کننده", "شاگرد دانشگاه", " دانشجو (اصلی)"],
     "haeufigkeit": 5
   },
@@ -55,7 +55,7 @@
     "definition_per": "«رشته» حوزه تخصصی اصلی است که دانشجو در دانشگاه بر آن تمرکز می‌کند.",
     "beispiel_de": "Mein Studienfach ist Informatik.",
     "beispiel_per": "رشته من علوم کامپیوتر است.",
-    "synonyme": ["Fach", "Spezialisierung"],
+    "synonyme_de": ["Fach", "Spezialisierung"],
     "synonyme_per": ["رشته تحصیلی", "گرایش", "زمینه تخصصی", "حوزه مطالعاتی"],
     "haeufigkeit": 4
   },
@@ -68,7 +68,7 @@
     "definition_per": "«کتابخانه» مجموعه‌ای از کتاب‌ها و منابع اطلاعاتی است که در دانشگاه برای مطالعه و تحقیق استفاده می‌شود.",
     "beispiel_de": "Ich habe Bücher aus der Bibliothek ausgeliehen.",
     "beispiel_per": "کتاب‌هایی از کتابخانه قرض گرفتم.",
-    "synonyme": ["Archiv", "Sammlung"],
+    "synonyme_de": ["Archiv", "Sammlung"],
     "synonyme_per": ["کتابخانه دانشگاهی", "منابع اطلاعاتی", "مرکز اسناد", "کتابخانه مرکزی"],
     "haeufigkeit": 4
   },
@@ -81,7 +81,7 @@
     "definition_per": "«کلاس» به فرآیند آموزشی سازمان‌یافته در دانشگاه یا مدرسه اشاره دارد.",
     "beispiel_de": "Der Unterricht beginnt um 8 Uhr morgens.",
     "beispiel_per": "کلاس ساعت ۸ صبح شروع می‌شود.",
-    "synonyme": ["Vorlesung", "Sitzung"],
+    "synonyme_de": ["Vorlesung", "Sitzung"],
     "synonyme_per": ["درس", "جلسه آموزشی", "آموزش", "کلاس درس"],
     "haeufigkeit": 5
   },
@@ -94,7 +94,7 @@
     "definition_per": "«امتحان» آزمونی است برای ارزیابی دانش و مهارت‌های آموخته‌شده.",
     "beispiel_de": "Die Prüfung war schwierig.",
     "beispiel_per": "امتحان سخت بود.",
-    "synonyme": ["Test", "Quiz"],
+    "synonyme_de": ["Test", "Quiz"],
     "synonyme_per": ["آزمون", "کنکور", "امتحان کتبی", "ارزیابی"],
     "haeufigkeit": 5
   },
@@ -107,7 +107,7 @@
     "definition_per": "«پروژه» کاری موقت با هدف مشخص و زمان‌بندی‌شده است.",
     "beispiel_de": "Wir haben an einem Gruppenprojekt gearbeitet.",
     "beispiel_per": "ما روی یک پروژه گروهی کار کردیم.",
-    "synonyme": ["Aufgabe", "Arbeit"],
+    "synonyme_de": ["Aufgabe", "Arbeit"],
     "synonyme_per": ["طرح", "کار پروژه‌ای", "پژوهش عملی", "فعالیت گروهی"],
     "haeufigkeit": 4
   },
@@ -120,7 +120,7 @@
     "definition_per": "«مدرک تحصیلی» گواهی رسمی موفقیت در دوره تحصیلی است.",
     "beispiel_de": "Er hat einen Bachelorabschluss erworben.",
     "beispiel_per": "او مدرک کارشناسی گرفت.",
-    "synonyme": ["Diplom", "Qualifikation"],
+    "synonyme_de": ["Diplom", "Qualifikation"],
     "synonyme_per": ["گواهی‌نامه", "درجه علمی", "مدرک دانشگاهی", "فوق‌لیسانس یا کارشناسی"],
     "haeufigkeit": 4
   },
@@ -133,7 +133,7 @@
     "definition_per": "«پایان‌نامه» کار تحقیقاتی مکتوب برای اتمام دوره دانشگاهی است.",
     "beispiel_de": "Sie verteidigte ihre Abschlussarbeit erfolgreich.",
     "beispiel_per": "او پایان‌نامه‌اش را با موفقیت دفاع کرد.",
-    "synonyme": ["Dissertation", "Arbeit"],
+    "synonyme_de": ["Dissertation", "Arbeit"],
     "synonyme_per": ["رساله", "پایان‌نامه کارشناسی ارشد", "تز", "کار تحقیقاتی نهایی"],
     "haeufigkeit": 3
   },
@@ -146,7 +146,7 @@
     "definition_per": "«ترم» دوره آموزشی شش‌ماهه در دانشگاه است.",
     "beispiel_de": "Dieses Semester ist sehr arbeitsreich.",
     "beispiel_per": "این ترم خیلی شلوغ است.",
-    "synonyme": ["Trimester", "Lehrperiode"],
+    "synonyme_de": ["Trimester", "Lehrperiode"],
     "synonyme_per": ["نیم‌سال", "دوره تحصیلی", "فصل آموزشی", "سمستر"],
     "haeufigkeit": 4
   },
@@ -159,7 +159,7 @@
     "definition_per": "«تحقیق» گسترش دانش از طریق بررسی‌های نظام‌مند است.",
     "beispiel_de": "Die Forschungsergebnisse wurden veröffentlicht.",
     "beispiel_per": "یافته‌های تحقیق منتشر شد.",
-    "synonyme": ["Studie", "Untersuchung"],
+    "synonyme_de": ["Studie", "Untersuchung"],
     "synonyme_per": ["پژوهش", "مطالعه علمی", "کاوش", "تحقیقات"],
     "haeufigkeit": 4
   },
@@ -172,7 +172,7 @@
     "definition_per": "«سخنرانی» ارائه آموزشی عمومی در دانشگاه است.",
     "beispiel_de": "Der Hörsaal war voll.",
     "beispiel_per": "تالار سخنرانی پر بود.",
-    "synonyme": ["Vortrag", "Präsentation"],
+    "synonyme_de": ["Vortrag", "Präsentation"],
     "synonyme_per": ["درس دانشگاهی", "lecture", "سمینار", "ارائه درسی"],
     "haeufigkeit": 3
   },
@@ -185,7 +185,7 @@
     "definition_per": "«نمره» ارزیابی عددی یا نمادی از عملکرد تحصیلی است.",
     "beispiel_de": "Ich habe eine gute Note erhalten.",
     "beispiel_per": "نمره بالایی گرفتم.",
-    "synonyme": ["Bewertung", "Punktzahl"],
+    "synonyme_de": ["Bewertung", "Punktzahl"],
     "synonyme_per": ["امتیاز", "درجه", "نمره نهایی", "ارزیابی عملکرد"],
     "haeufigkeit": 4
   },
@@ -198,7 +198,7 @@
     "definition_per": "«دوره» مجموعه‌ای از جلسات آموزشی در موضوع مشخص است.",
     "beispiel_de": "Dieser Kurs behandelt fortgeschrittene Themen.",
     "beispiel_per": "این دوره موضوعات پیشرفته را پوشش می‌دهد.",
-    "synonyme": ["Lehrgang", "Modul"],
+    "synonyme_de": ["Lehrgang", "Modul"],
     "synonyme_per": ["کلاس", "دوره آموزشی", "درس", "ماژول درسی"],
     "haeufigkeit": 4
   },
@@ -211,7 +211,7 @@
     "definition_per": "«بورسیه» کمک‌هزینه مالی برای دانشجویان است.",
     "beispiel_de": "Sie hat sich für ein Stipendium beworben.",
     "beispiel_per": "او برای بورسیه درخواست داد.",
-    "synonyme": ["Förderung", "Auszeichnung"],
+    "synonyme_de": ["Förderung", "Auszeichnung"],
     "synonyme_per": ["کمک‌هزینه تحصیلی", "بورسیه تحصیلی", "حمایت مالی", "جایزه تحصیلی"],
     "haeufigkeit": 3
   },
@@ -224,7 +224,7 @@
     "definition_per": "«کنفرانس» گردهمایی متخصصان برای تبادل دانش است.",
     "beispiel_de": "Die Konferenz findet nächste Woche statt.",
     "beispiel_per": "کنفرانس هفته آینده است.",
-    "synonyme": ["Symposium", "Seminar"],
+    "synonyme_de": ["Symposium", "Seminar"],
     "synonyme_per": ["همایش", "سمینار", "کنگره", "جلسه علمی"],
     "haeufigkeit": 3
   },
@@ -237,7 +237,7 @@
     "definition_per": "«آزمایشگاه» مکانی برای انجام آزمایش‌های علمی است.",
     "beispiel_de": "Wir führten Experimente im Labor durch.",
     "beispiel_per": "آزمایش‌ها را در آزمایشگاه انجام دادیم.",
-    "synonyme": ["Werkstatt", "Versuchslabor"],
+    "synonyme_de": ["Werkstatt", "Versuchslabor"],
     "synonyme_per": ["آزمایشگاه علمی", "کارگاه", "مرکز تحقیقات آزمایشگاهی", "لابراتوار"],
     "haeufigkeit": 3
   },
@@ -250,7 +250,7 @@
     "definition_per": "«تکلیف» کاری آموزشی برای تمرین مطالب درسی است.",
     "beispiel_de": "Die Aufgabe muss bis morgen abgegeben werden.",
     "beispiel_per": "تکلیف برای فردا موعد دارد.",
-    "synonyme": ["Hausarbeit", "Übung"],
+    "synonyme_de": ["Hausarbeit", "Übung"],
     "synonyme_per": ["تمرین", "کار خانگی", "وظیفه درسی", "پروژه کلاسی"],
     "haeufigkeit": 4
   },
@@ -263,7 +263,7 @@
     "definition_per": "«محوطه دانشگاه» مجموعه ساختمان‌ها و تأسیسات دانشگاهی است.",
     "beispiel_de": "Der Campus ist im Frühling wunderschön.",
     "beispiel_per": "محوطه دانشگاه در بهار زیباست.",
-    "synonyme": ["Gelände", "Anlage"],
+    "synonyme_de": ["Gelände", "Anlage"],
     "synonyme_per": ["پردیس دانشگاه", "محوطه دانشگاهی", "مجموعه دانشگاه", "کمپوس"],
     "haeufigkeit": 3
   }
