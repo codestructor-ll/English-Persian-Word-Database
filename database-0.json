@@ -266,22 +266,9 @@
     "synonyme_de": ["Gelände", "Anlage"],
     "synonyme_per": ["پردیس دانشگاه", "محوطه دانشگاهی", "مجموعه دانشگاه", "کمپوس"],
     "haeufigkeit": 3
-  }
-    "Vorlesungsverzeichnis": {
-    "id": 21,
-    "uebersetzung": "فهرست دروس",
-    "wortart": "Substantiv",
-    "lautschrift": "/fehrest-e dorus/",
-    "definition_de": "Das Vorlesungsverzeichnis listet alle angebotenen Kurse und Vorlesungen eines Semesters auf.",
-    "definition_per": "«فهرست دروس» فهرستی از تمام دوره‌ها و درس‌های ارائه‌شده در یک ترم است.",
-    "beispiel_de": "Im Vorlesungsverzeichnis suche ich nach Seminaren.",
-    "beispiel_per": "در فهرست دروس به دنبال سمینارها می‌گردم.",
-    "synonyme_de": ["Modulhandbuch", "Kurskatalog"],
-    "synonyme_per": ["کاتالوگ دروس", "برنامه درسی", "لیست واحدهای درسی"],
-    "haeufigkeit": 3
   },
   "Immatrikulation": {
-    "id": 22,
+    "id": 21,
     "uebersetzung": "ثبت‌نام",
     "wortart": "Substantiv",
     "lautschrift": "/səbtˈnɒːm/",
@@ -293,21 +280,8 @@
     "synonyme_per": ["نام‌نویسی", "ورود به دانشگاه", "ثبت نام دانشجویی"],
     "haeufigkeit": 4
   },
-  "Exmatrikulation": {
-    "id": 23,
-    "uebersetzung": "خروج از دانشگاه",
-    "wortart": "Substantiv",
-    "lautschrift": "/xorudʒ æz dɒːneʃˈɡɒːh/",
-    "definition_de": "Die Exmatrikulation ist die Abmeldung oder Beendigung des Studiums.",
-    "definition_per": "«خروج از دانشگاه» پایان یا لغو ثبت‌نام دانشجویی است.",
-    "beispiel_de": "Er wurde exmatrikuliert.",
-    "beispiel_per": "او از دانشگاه اخراج شد.",
-    "synonyme_de": ["Abmeldung", "Ausschreibung"],
-    "synonyme_per": ["لغو ثبت‌نام", "ترک تحصیل", "اخراج"],
-    "haeufigkeit": 3
-  },
   "Bachelor": {
-    "id": 24,
+    "id": 22,
     "uebersetzung": "کارشناسی",
     "wortart": "Substantiv",
     "lautschrift": "/kɒːrʃenɒːsi/",
@@ -320,7 +294,7 @@
     "haeufigkeit": 5
   },
   "Master": {
-    "id": 25,
+    "id": 23,
     "uebersetzung": "کارشناسی ارشد",
     "wortart": "Substantiv",
     "lautschrift": "/kɒːrʃenɒːsi-ye ærʃæd/",
@@ -333,7 +307,7 @@
     "haeufigkeit": 5
   },
   "Promotion": {
-    "id": 26,
+    "id": 24,
     "uebersetzung": "دکتری",
     "wortart": "Substantiv",
     "lautschrift": "/doktorɒː/",
@@ -346,7 +320,7 @@
     "haeufigkeit": 4
   },
   "Hörsaal": {
-    "id": 27,
+    "id": 25,
     "uebersetzung": "تالار سخنرانی",
     "wortart": "Substantiv",
     "lautschrift": "/tɒːlɒːr-e sokhænˈrɒːni/",
@@ -359,7 +333,7 @@
     "haeufigkeit": 4
   },
   "Seminar": {
-    "id": 28,
+    "id": 26,
     "uebersetzung": "سمینار",
     "wortart": "Substantiv",
     "lautschrift": "/seminɒːr/",
@@ -372,7 +346,7 @@
     "haeufigkeit": 4
   },
   "Tutorium": {
-    "id": 29,
+    "id": 27,
     "uebersetzung": "کلاس تمرین",
     "wortart": "Substantiv",
     "lautschrift": "/kelɒːs-e tæmˈrin/",
@@ -385,7 +359,7 @@
     "haeufigkeit": 3
   },
   "Fakultät": {
-    "id": 30,
+    "id": 28,
     "uebersetzung": "دانشکده",
     "wortart": "Substantiv",
     "lautschrift": "/dɒːneʃˈkæde/",
