@@ -1,11 +1,11 @@
 {
   "_meta": {
-    "sprachpaar": "Englisch–Persisch",
-    "version": "1.0.1",
+    "sprachpaar": "Deutsch–Persisch",
+    "version": "1.0.2",
     "erstellt": "2025-12-26",
-    "aktualisiert": "2025-02-01",
-    "zweck": "Datenbank",
-    "autor": "codestructor-ll"
+    "aktualisiert": "2026-02-05",
+    "zweck": "datenbank",
+    "autor": codestructor
   },
   "Universität": {
     "id": 1,
